@@ -21,9 +21,9 @@ The repository contains the following Jupyter Notebook files:
 
 1. Clone this repository:https://github.com/KarandeepSinghSodhi/Deep_Learning_Hanoi.git
 2.  Run the Jupyter Notebook files in the following order:
-- `preprocessing.ipynb`
-- `leak_detection.ipynb`
-- `leak_localization.ipynb`
+- `pre-processing finAL.ipynb`
+- `LeakDetection2-4-24.ipynb`
+- `Leak Localization.ipynb`
 
 ## Requirements
 
