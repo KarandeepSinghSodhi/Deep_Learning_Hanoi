@@ -7,6 +7,8 @@ This repository contains the code for detecting and localizing leaks in water di
 
 LeakDB (Leakage Diagnosis Benchmark) is a realistic leakage dataset for water distribution networks. The dataset is comprised of a large number of artificially created but realistic leakage scenarios, on different water distribution networks, under varying conditions. A scoring algorithm in MATLAB code is provided to evaluate the results of different algorithms.
 
+You can download the complete LeakDB dataset from [here](https://ucy-my.sharepoint.com/personal/mkiria01_ucy_ac_cy/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fmkiria01%5Fucy%5Fac%5Fcy%2FDocuments%2FLeakage%2DBenchmark%2DDataset%2FLeakDB%2FBENCHMARK).
+
 ## Files
 
 The repository contains the following Jupyter Notebook files:
@@ -17,5 +19,20 @@ The repository contains the following Jupyter Notebook files:
 
 ## Usage
 
-1. Clone this repository:
+1. Clone this repository:https://github.com/KarandeepSinghSodhi/Deep_Learning_Hanoi.git
+2.  Run the Jupyter Notebook files in the following order:
+- `preprocessing.ipynb`
+- `leak_detection.ipynb`
+- `leak_localization.ipynb`
+
+## Requirements
+
+- Python 3
+- Jupyter Notebook
+- TensorFlow
+- NumPy
+- Pandas
+- Matplotlib
+
+
 
